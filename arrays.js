@@ -1,4 +1,3 @@
-
 // task1
 // let num = [11,24,16,-4];
 
@@ -13,7 +12,7 @@
 
 // for (i = 0; i < num.length ; i++){
 //     if (num[i]%2==1){
-//         console.log(arr[i]);
+//         console.log(num[i]);
 //     }
 // }
 
@@ -46,3 +45,4 @@
 //   sum = big + big2;
 // }
 // console.log(sum);
+
